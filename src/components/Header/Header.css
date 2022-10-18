@@ -17,3 +17,19 @@
 .header a:hover{
     color: orange;
 }
+
+.user{
+    color: white;
+}
+
+.logout-btn{
+margin-left: 10px;
+background-color: rgb(248, 84, 84);
+color: white;
+font-weight: 600;
+padding: 4px ;
+border-radius: 5px;
+}
+.logout-btn:hover{
+    background-color: red;
+}
